@@ -15,7 +15,7 @@ I maintain and co-maintain several open-source projects, including:
 
 ### Skills & Tools 🛠️
 
-When building things, I usually work with **Next.js** and **TypeScript** on the frontend, and **Python** for AI/ML and backend work.
+When building things, I usually work with **Next.js** and **TypeScript** on the frontend, and **Python** for AI/ML and backend work. I'm also comfortable across a broad stack — from systems languages like C/C++ to mobile with React Native and Flutter.
 
 I'm also exploring compiler design, distributed systems, and cybersecurity as part of my coursework and honors specialization.
 
@@ -29,4 +29,6 @@ I'm available on [LinkedIn](https://linkedin.com/in/hassaan-tole-907441293).
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,html,css,tailwind,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,nodejs,reactnative,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,mysql,docker,git,github,vscode,figma&theme=dark" />
